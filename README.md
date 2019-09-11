@@ -1,6 +1,6 @@
 # k8s-monitoring-demo
 
-### What are we going to do:
+### What we're going to do today:
 - [Run prometheus with docker](https://github.com/ofer-velich/k8s-monitoring-demo/tree/master/01-prometheus-docker-demo)
 - [Run prometheus with the prometheus-operator on minikube](https://github.com/ofer-velich/k8s-monitoring-demo/tree/master/02-prometheus-operator-demo)
 - [Shipping k8s logs using fluentd to logz.io](https://github.com/ofer-velich/k8s-monitoring-demo/tree/master/03-fluentd-logzio-demo)
